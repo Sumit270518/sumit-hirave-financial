@@ -1,4 +1,4 @@
-# Financial Habit Builder & Wealth Growth Tracker
+# Financial 
 
 [![Full-Stack MERN](https://img.shields.io/badge/Stack-MERN-10b981.svg)](https://github.com)
 [![Testing](https://img.shields.io/badge/Vitest-19%2F19%20Passing-success.svg)](https://vitest.dev)
